@@ -1,0 +1,38 @@
+{
+    "name": "Valeria Becker",
+    "backImage": "../assets/playa2.jpg",
+    "image": "../assets/mafalda.jpg",
+    "position": "Informática",
+    "company": {
+        "name": "FAMAF",
+        "img": "../assets/logoUNTREF.jpg",
+        "url": "#"
+    },
+    "school": [
+    {
+        "name": "FAMAF",
+        "img": "../assets/logoUNTREF.jpg",
+        "url": "#"
+    },
+    {
+        "name": "Escuela secundaria San Martín",
+        "img": "../assets/logoUNTREF.jpg",
+        "url": "#"
+    }
+    ],
+    "skills": [
+        {
+            "description": "Java", 
+            "percentage": "90"
+        },
+        {
+            "description": "Javascript",  
+            "percentage": "80"
+        },
+        {
+            "description": "Html", 
+            "percentage": "60"
+        }
+
+    ]
+}

@@ -1,0 +1,8 @@
+<h1>Educacion</h1>
+<button type="button" class="btn btn-primary">Editar</button>
+<ul>
+    <li *ngFor="let educacion of educacionList"> 
+        <h3>{{ educacion.name }}</h3>
+        <img [src]="educacion.img" alt="">
+    </li>
+ </ul>
